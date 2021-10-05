@@ -1,0 +1,4020 @@
+Absorb
+Move type:  Grass
+Move power: 20
+Accuracy:   100
+PP:         20
+Effects:    Pokemon heals half the dealt damage
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+Acid
+Move type:  Poison
+Move power: 40
+Accuracy:   100
+PP:         30
+Effects:    10% chance of lowering opponents defense
+Condition:  
+Condition_Chance: 
+Status:     -1EDEF
+Status_Chance: 10
+
+
+Acid Armor
+Move type:  Poison
+Move power: N/A
+Accuracy:   N/A
+PP:         40
+Effects:    Pokemons defense is raised
+Condition:  
+Condition_Chance: 
+Status: +1UDEF
+Status_Chance: 100
+
+
+Aerial Ace
+Move type:  Flying
+Move power: 60
+Accuracy:   N/A
+PP:         20
+Effects:    Always hits unless the pokemon is underground.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Aeroblast
+Move type:  Flying
+Move power: 100
+Accuracy:   95
+PP:         5
+Effects:    High critical hit rate
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Agility
+Move type:  Psychic
+Move power: N/A
+Accuracy:   N/A
+PP:         30
+Effects:    Pokemons speed is raised
+Condition:  
+Condition_Chance: 
+Status: 	+1USPE
+Status_Chance:	100
+
+
+Air Cutter
+Move type:  Flying
+Move power: 55
+Accuracy:   95
+PP:         25
+Effects:    High critical hit rate.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Amnesia
+Move type:  Psychic
+Move power: N/A
+Accuracy:   N/A
+PP:         20
+Effects:    Pokemons Special Defence is raised.
+Condition:  
+Condition_Chance: 
+Status:  +2USPD
+Status_Chance: 100
+
+
+Ancient power
+Move type:  Rock
+Move power: 60
+Accuracy:   100
+PP:         5
+Effects:    10% chance to raise all stats.
+Condition:  
+Condition_Chance: 
+Status: +1UATT|+1UDEF|+1USPA|+1USPD|+1USPE
+Status_Chance: 10
+
+
+Arm Thrust
+Move type:  Fighting
+Move power: 15
+Accuracy:   100
+PP:         20
+Effects:    Attacks two to five times.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Aromatherapy
+Move type:  Grass
+Move power: N/A
+Accuracy:   N/A
+PP:         5
+Effects:    Cures all status abnormalities
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Assist
+Move type:  Normal
+Move power: N/A
+Accuracy:   100
+PP:         20
+Effects:    Uses an allys move
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Astonish
+Move type:  Ghost
+Move power: 30
+Accuracy:   100
+PP:         15
+Effects:    30% chance that opposing pokemon will flinch
+Condition:  FLINCH
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Attract
+Move type:  Normal
+Move power: N/A
+Accuracy:   N/A
+PP:         15
+Effects:    May render pokemon of opposite gender incappable of attack
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Aurora Beam
+Move type:  Ice
+Move power: 65
+Accuracy:  100
+PP:        20
+Effects:   10% chance that opposing pokemons attack will be lowered
+Condition:  
+Condition_Chance: 
+Status: -1EATT
+Status_Chance: 10
+
+
+Barrage
+Move type:  Normal
+Move power: 15
+Accuracy:   85
+PP:         20
+Effects:    Attacks up to five times
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Barrier
+Move type:  Psychic
+Move power: N/A
+Accuracy:   N/A
+PP:         30
+Effects:    Pokemons defence is raised
+Condition:  
+Condition_Chance: 
+Status:     +1UDEF
+Status_Chance: 100
+
+
+Baton Pass
+Move type:  Normal
+Move power: N/A
+Accuracy:   N/A
+PP:         40
+Effects:    Switches out current pokemon and passes stat changes to the next
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Beat Up
+Move type:  Dark
+Move power: 10
+Accuracy:   100
+PP:         10
+Effects:    Each pokemon in your part attacks the foe, except fainted ones.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Belly Drum
+Move type:  Normal
+Move power: N/A
+Accuracy:   N/A
+PP:         10
+Effects:    Pokemons attack is sharply boosted at the cost of 50% HP
+Condition:  
+Condition_Chance: 
+Status:     +3ATT
+Status_Chance: 100
+
+
+Bide
+Move type:  Normal
+Move power: N/A
+Accuracy:   100
+PP:         10
+Effects:    Stores damage for two turns and then counters with double force
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Bind
+Move type:  Normal
+Move power: 15
+Accuracy:   75
+PP:         20
+Effects:    Opponent is damaged slightly for 2 - 6 turns and cannot escape.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Bite
+Move type:  Dark
+Move power: 60
+Accuracy:   100
+PP:         25
+Effects:    10% chance of causing the foe to flinch
+Condition:  FLINCH
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Blast Burn
+Move type:  Fire
+Move power: 150
+Accuracy:   90
+PP:         5
+Effects:    Attacks the first turn then rests the next.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Blaze Kick
+Move type:  Fire
+Move power: 85
+Accuracy:   90
+PP:         10
+Effects:    10% chance of burning the foe.
+Condition:  BURNED
+Condition_Chance: 10
+Status:     
+Status_Chance: 
+
+
+Blizzard
+Move type:  Ice
+Move power: 120
+Accuracy:   70
+PP:         5
+Effects:    30% chance of freezing the foe
+Condition:  FROZEN
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Block
+Move type:  Normal
+Move power: N/A
+Accuracy:   100
+PP:         5
+Effects:    Prevents the foes escape while user is in battle.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Body Slam
+Move type:  Normal
+Move power: 85
+Accuracy:   100
+PP:         15
+Effects:    30% chance to parlyze the target.
+Condition:  PARALYZED  
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Bone Club
+Move type:  Ground
+Move power: 65
+Accuracy:   85
+PP:         20
+Effects:    30% chance of causing the opponent to flinch
+Condition:  FLINCH
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Bone Rush
+Move type:  Ground
+Move power: 25
+Accuracy:   80
+PP:         10
+Effects:    Hits 2, 3, 4, or 5 times.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Bonemerang
+Move type:  Ground
+Move power: 50
+Accuracy:   90
+PP:         10
+Effects:    Hits twice
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Bounce
+Move type:  Flying
+Move power: 85
+Accuracy:   85
+PP:         5
+Effects:    Bounces up the first turn and is out of range. Attacks the second turn. 30% chance to paralyze the target.
+Condition:  PARALYZED 
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Brick Break 
+Move type:  Fighting
+Move power: 75
+Accuracy:   100
+PP:         15
+Effects:    Shatters barriers like Reflect and Light Screen
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Bubble
+Move type:  Water
+Move power: 20
+Accuracy:   100
+PP:         30
+Effects:    10% chance of lowering foes speed.
+Condition:  
+Condition_Chance: 
+Status:     -1ESPE
+Status_Chance: 10
+
+
+Bubble Beam 
+Move type:  Water
+Move power: 65
+Accuracy:   100
+PP:         20
+Effects:    30% chance of lowering the foes speed
+Condition:  
+Condition_Chance: 
+Status:  -1ESPE
+Status_Chance: 30
+
+
+Bulk Up
+Move type:  Fighting
+Move power: N/A
+Accuracy:   N/A
+PP:         20
+Effects:    Pokemons Attack and Defence are raised.
+Condition:  
+Condition_Chance: 
+Status: +1UATT|+1UDEF
+Status_Chance: 100
+
+
+Bullet Seed 
+Move type:  Grass
+Move power: 10
+Accuracy:   100
+PP:         30
+Effects:    Attacks between 2 and 5 turns.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Calm Mind
+Move type:  Psychic
+Move power: N/A
+Accuracy:   N/A 
+PP:         20
+Effects:    Pokemons Special Attack and Defence are raised.
+Condition:  
+Condition_Chance: 
+Status: +1USPA|+1USPD
+Status_Chance: 100
+
+
+Camouflage
+Move type:  Normal
+Move power: N/A
+Accuracy:   100
+PP:         20
+Effects:    Changes a pokemons type to match the terrain.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Charge
+Move type:  Electric
+Move power: N/A
+Accuracy:   100
+PP:         20
+Effects:    Boosts the power of a following electric type attack by 100%
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Charm
+Move type:  Normal
+Move power: N/A
+Accuracy:   100
+PP:         20
+Effects:    Lowers the foes attack.
+Condition:  
+Condition_Chance: 
+Status: -1EATT
+Status_Chance: 100
+
+
+Clamp
+Move type:  Water
+Move power: 35
+Accuracy:   75
+PP:         10
+Effects:    The foe cannot escape and is damaged for 2, 3, 4, or 5 turns.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Comet Punch 
+Move type:  Normal
+Move power: 18
+Accuracy:   85
+PP:         15
+Effects:    Hits the for 2 to 5 times.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Confuse Ray 
+Move type:  Ghost
+Move power: N/A
+Accuracy:   100
+PP:         10
+Effects:    Confuses the foe.
+Condition:  CONFUSION
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Confusion
+Move type:  Psychic
+Move power: 50
+Accuracy:   100
+PP:         25
+Effects:    10% chance of confusing the foe.
+Condition:  CONFUSION
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Constrict
+Move type:  Normal
+Move power: 10
+Accuracy:   100
+PP:         35
+Effects:    10% chance of lowering the foes speed.
+Condition:  
+Condition_Chance: 
+Status: -1ESPE
+Status_Chance: 10
+
+
+Conversion
+Move type:  Normal
+Move power: N/A
+Accuracy:   N/A
+PP:         30
+Effects:    Pokemons type changes to moves type.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Conversion 2 
+Move type:  Normal
+Move power: N/A
+Accuracy:   100
+PP:         30
+Effects:    Pokemon is resistant to the type of the last attack.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Cosmic Power
+Move type:  Psychic
+Move power: N/A
+Accuracy:   N/A
+PP:         20
+Effects:    Pokemons Defence and Special Defence are raised.
+Condition:  
+Condition_Chance: 
+Status: +1UDEF|+1USPD
+Status_Chance: 100
+
+
+Cotton Spore 
+Move type:  Grass
+Move power: N/A
+Accuracy:   85
+PP:         40
+Effects:    Slows down the opponent.
+Condition:  
+Condition_Chance: 
+Status:  -1ESPE
+Status_Chance: 100
+
+
+Counter
+Move type:  Fighting
+Move power: N/A
+Accuracy:   100
+PP:         20
+Effects:    Returns to the foe double the damage of attack done that turn. Foes attack must be a non-special attack
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Covet
+Move type:  Normal
+Move power: 40
+Accuracy:   100
+PP:         40
+Effects:    Pokemon steals held item from foe.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Crabhammer
+Move type:  Water
+Move power: 90
+Accuracy:   85
+PP:         10
+Effects:    High critical hit rate
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Cross Chop
+Move type:  Fighting
+Move power: 100
+Accuracy:   80
+PP:         5
+Effects:  High critical hit rate
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Crunch
+Move type:  Dark
+Move power: 80
+Accuracy:   100
+PP:         15
+Effects:    10% chance of lowering foes Special Defence
+Condition:  
+Condition_Chance: 
+Status:  -1ESPD
+Status_Chance: 10
+
+
+Crush Claw
+Move type:  Normal
+Move power: 75
+Accuracy:   95
+PP:         10
+Effects:    10% chance of lowering opponents defence
+Condition:  
+Condition_Chance: 
+Status:  -1EDEF
+Status_Chance: 10
+
+
+Curse
+Move type: Ghost
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: Non-Ghost types: Speed is lowered and attack and defence is raised. Ghost types: Saccrifice half your max HP to lay a curse on the foe that drains 1/4 of their max HP every turn.
+Condition:  
+Condition_Chance: 
+Status: -1USPE|+1UATT|+1UDEF
+Status_Chance: 100
+
+
+Cut
+Move type:  Normal
+Move power: 50
+Accuracy:   95
+PP:         30
+Effects:    Can cut away trees on the overworld map in the GBA games
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Defense Curl 
+Move type:  Normal
+Move power: N/A
+Accuracy:   N/A
+PP:         40
+Effects:    Pokemons defence is raised
+Condition:  
+Condition_Chance: 
+Status: +1UDEF
+Status_Chance: 100
+
+
+Destiny Bond 
+Move type: Ghost
+Move power: N/A
+Accuracy: N/A
+PP: 5
+Effects: If pokemon faints in the next turn, the destiny bonded foe faints.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Detect
+Move type:  Fighting
+Move power: N/A
+Accuracy:   N/A
+PP:         5
+Effects:    Negates all attcks, may fail if used in sucession.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Dig
+Move type:  Ground
+Move power: 60
+Accuracy:   100
+PP:         10
+Effects: Pokemon dig into the ground the first turn, then attacks the second. Pokemon cannot be hit while underground except by earthquake and magnitude which do 200% damage, as well as fissure.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Disable
+Move type:  Normal
+Move power: N/A
+Accuracy:   55
+PP:         20
+Effects:    The opponents last used move is disabled for 2 to 5 turns.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Dive
+Move type: Water
+Move power: 60
+Accuracy: 100
+PP: 10
+Effects: Dives underwater the first turn, then surfaces to attack the second. Pokemon cannot be hit while underwater.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Dizzy Punch 
+Move type:  Normal
+Move power: 70
+Accuracy:   100
+PP:         10
+Effects:    30% chance of confusing foe.
+Condition:  CONFUSION
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Doom Desire 
+Move type:  Steel
+Move power: 120
+Accuracy:   85
+PP:         5
+Effects: Attack hits whatever pokemon is out 2 turns later.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+
+Double Kick 
+Move type:  Fighting
+Move power: 30
+Accuracy:   100
+PP:         30
+Effects: Attacks twice.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Double Team 
+Move type:  Normal
+Move power: N/A
+Accuracy:   N/A
+PP:         15
+Effects:    Pokemons evasiveness is raised
+Condition:  +1UEVA
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Double Edge 
+Move type:  Normal
+Move power: 120
+Accuracy:   100
+PP:         15
+Effects:    The user loses 1/8 of inflicted damage.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Doubleslap
+Move type:  Normal
+Move power: 15
+Accuracy:   85
+PP:         10
+Effects:    Attacks 2 to 5 times.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Dragon Claw 
+Move type:  Dragon
+Move power: 80
+Accuracy:   100
+PP:         15
+Effects:    N/A 
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Dragon Dance 
+Move type:  Dragon
+Move power: N/A
+Accuracy:   N/A
+PP:         20
+Effects:    Pokemons Attack and Speed are raised.
+Condition:  
+Condition_Chance: 
+Status:  +1UATT|+1USPE
+Status_Chance: 100
+
+
+Dragon Rage 
+Move type:  Dragon
+Move power: N/A
+Accuracy:   100
+PP:         10
+Effects:    Causes 40 HP damage reguardless of foes defence.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Dragonbreath 
+Move type:  Dragon
+Move power: 60
+Accuracy:   100
+PP:         20
+Effects:    10% chance of paralyzing foe.
+Condition:  PARALYZED
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Dream Eater 
+Move type:  Psychic
+Move power: 100
+Accuracy:   100
+PP:         15
+Effects:    Adds the damage inflicted on the sleeping foe into the pokemons HP
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Drill Peck
+Move type:  Flying
+Move power: 80
+Accuracy:   100
+PP:         20
+Effects:    N/A
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Dynamicpunch 
+Move type:  Fighting
+Move power: 100
+Accuracy:   50
+PP:         5
+Effects:    If it hits, the target will become confused, but has low accuracy.
+Condition:  CONFUSION
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Earthquake
+Move type:  Ground
+Move power: 100
+Accuracy:   100
+PP:         10
+Effects:    Hits all pokemon in play besides the user.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Egg Bomb
+Move type:  Normal
+Move power: 100
+Accuracy:   75
+PP:         10
+Effects:    N/A
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Ember
+Move type:  Fire
+Move power: 40
+Accuracy:   100
+PP:         25
+Effects:    10% chance that the foe may be burned.
+Condition:  BURNED
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Encore
+Move type:  Normal
+Move power: N/A
+Accuracy:   100
+PP:         5
+Effects:    The foe is forced to repeat his last attack for 2 to 5 turns.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Endeavor
+Move type:  Normal
+Move power: N/A
+Accuracy:   100
+PP:         5
+Effects:    Does damage to the foe by subtracting your HP from your foes and dealing the remainder.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Endure
+Move type:  Normal
+Move power: N/A
+Accuracy:   N/A
+PP:         10
+Effects:    Pokemon will have at least 1 HP left over after the foes move. Move may fail if used consecutively.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Eruption
+Move type: Fire
+Move power: 150
+Accuracy: 100
+PP: 5
+Effects: The higher your HP is, the more powerful the move is.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Explosion
+Move type: Normal
+Move power: 250
+Accuracy: 100
+PP: 5
+Effects: User faints.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Extrasensory
+Move type: Psychic
+Move power: 80
+Accuracy: 100
+PP: 30
+Effects: 10% chance of making foe flinch.
+Condition:  FLINCH
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Extremespeed
+Move type: Normal
+Move power: 80
+Accuracy: 100
+PP: 5
+Effects: Always attack first.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Facade
+Move type: Normal
+Move power: 70
+Accuracy: 100
+PP: 20
+Effects: The move power is doubled when user is poisoned, paralyzed, or burned.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Faint Attack
+Move type: Dark
+Move power: 60
+Accuracy: N/A
+PP: 20
+Effects: Always hits the target.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Fake Out
+Move type: Normal
+Move power: 40
+Accuracy: 100
+PP: 10
+Effects: User attacks first and causes foe to flinch. Only works on first turn.
+Condition:  FLINCH
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Fake Tears
+Move type: Dark
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Sharply lowers the special Defence of the target.
+Condition:  
+Condition_Chance: 
+Status: +1USPD
+Status_Chance: 100
+
+
+False Swipe
+Move type: Normal
+Move power: 40
+Accuracy: 100
+PP: 40
+Effects: Leave the target with no less than 1 HP.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Featherdance
+Move type: Flying
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: Sharply lowers the attack of the target.
+Condition:  
+Condition_Chance: 
+Status: -2EATT
+Status_Chance: 100
+
+
+Fire Blast
+Move type: Fire
+Move power: 120
+Accuracy: 85
+PP: 5
+Effects: 30% chance to burn target.
+Condition: BURNED
+Condition_Chance: 30 
+Status: 
+Status_Chance:
+
+
+Fire Punch
+Move type: Fire
+Move power: 75
+Accuracy: 100
+PP: 15
+Effects: 10% chance of burning the target.
+Condition:  BURNED
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Fire Spin
+Move type: Fire
+Move power: 15
+Accuracy: 70
+PP: 15
+Effects: Traps target in a firey vortex for 2 - 5 turns.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Fissure
+Move type: Ground
+Move power: N/A
+Accuracy: 30
+PP: 5
+Effects: Ground type 1HKO move.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Flail
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: The lower the users HP, the more powerful the move becomes.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Flamethrower
+Move type: Fire
+Move power: 95
+Accuracy: 100
+PP: 15
+Effects: 10% chance to burn target.
+Condition:  BURNED
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Flash
+Move type: Normal
+Move power: N/A
+Accuracy: 70
+PP: 20
+Effects: Lowers targets accuracy. Lights up dark areas in the overworld.
+Condition: 
+Condition_Chance: 
+Status: -1EACC
+Status_Chance: 100
+
+
+Flatter
+Move type: Dark
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: Raises the targets Special attack and confuses them.
+Condition:  CONUSION
+Condition_Chance: 100
+Status: +1ESPA
+Status_Chance: 100
+
+
+Fly
+Move type: Flying
+Move power: 70
+Accuracy: 95
+PP: 15
+Effects: User flies up out of harms way for the first turn, then swoops to attack the second.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Focus Energy
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 30
+Effects: Increases critical hit rate of user.
+Condition:  
+Condition_Chance: 
+Status: +1UCRT
+Status_Chance: 100
+
+
+Focus Punch
+Move type: Fighting
+Move power: 150
+Accuracy: 100
+PP: 20
+Effects: If the user is struck before using this move, the user flinches.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Follow Me
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: All foes attacks become focused on user.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Foresight
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 40
+Effects: Restores lost accuracy and prevents accuracy loss.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Frenzy Plant
+Move type: Grass
+Move power: 150
+Accuracy: 90
+PP: 5
+Effects: User attacks the first turn then rests the second.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Frustration
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: The lower the users happiness, the more powerful the move becomes.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Fury Attack
+Move type: Normal
+Move power: 15
+Accuracy: 85
+PP: 20
+Effects: Strikes two to five times.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Fury Cutter
+Move type: Bug
+Move power: 10
+Accuracy: 95
+PP: 20
+Effects: Power of move increaces every time the move connects sequentially. Power returns to normal if move misses or is not used.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Fury Swipes
+Move type: Normal
+Move power: 18
+Accuracy: 80
+PP: 15
+Effects: Strikes two to five times.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Future Sight
+Move type: Psychic
+Move power: 80
+Accuracy: 90
+PP: 15
+Effects: Foresees an attack two turns in the future.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Giga Drain
+Move type: Grass
+Move power: 60
+Accuracy: 100
+PP: 5
+Effects: User regains half of the damage caused to the target.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Glare
+Move type: Normal
+Move power: N/A
+Accuracy: 75
+PP: 30
+Effects: 100% chance to paralyze the target.
+Condition:  PARALYZED
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Grasswhistle
+Move type: Grass
+Move power: N/A
+Accuracy: 55
+PP: 15
+Effects: Puts target to sleep/
+Condition:  SLEEP
+Condition_Chance: 100 
+Status: 
+Status_Chance:
+
+
+Growl
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 40
+Effects: Lowers the targets attack.
+Condition:  
+Condition_Chance: 
+Status:  -1EATT
+Status_Chance: 100
+
+
+Growth
+Move type:  Normal
+Move power: N/A
+Accuracy: N/A
+PP: 40
+Effects: Raises the users Special Attack.
+Condition:  
+Condition_Chance: 
+Status: +1USPA
+Status_Chance: 100
+
+
+Grudge
+Move type: Ghost
+Move power: N/A
+Accuracy: 100
+PP: 5
+Effects: If user faints, the PP of the killing move is reduced to zero.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Guillotine
+Move type: Normal
+Move power: N/A
+Accuracy: 30
+PP: 5
+Effects: A normal type 1HKO.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Gust
+Move type: Flying
+Move power: 40
+Accuracy: 100
+PP: 35
+Effects: BHits pokemon using fly for 200% damage.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Hail
+Move type: Ice
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: Damages all non ice type pokemon for 5 turns.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Harden
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 30
+Effects: Raises the users defense.
+Condition:  
+Condition_Chance: 
+Status: +1UDEF
+Status_Chance: 100
+
+
+Haze
+Move type: Ice
+Move power: N/A
+Accuracy: N/A
+PP: 30
+Effects: Resets all stat changes.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Headbutt
+Move type: Normal
+Move power: 70
+Accuracy: 100
+PP: 15
+Effects: 30% chance to make the target flinch.
+Condition:  FLINCH
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Heal Bell
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 5
+Effects: Cures all status ailments of all pokemon in party.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Heat Wave
+Move type: Fire
+Move power: 100
+Accuracy: 90
+PP: 10
+Effects: 10% chance to burn target(s)
+Condition: BURNED
+Condition_Chance: 10 
+Status: 
+Status_Chance:
+
+
+Helping Hand
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Boosts allies attack by 50%
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Hi Jump Kick
+Move type: Fighting
+Move power: 85
+Accuracy: 90
+PP: 20
+Effects: If the user misses the target the user takes damage.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Hidden Power
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: The type and strength of this move is based on the IVs of the user.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Horn Attack
+Move type: Normal
+Move power: 65
+Accuracy: 100
+PP: 25
+Effects: N/A 
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Horn Drill
+Move type: Normal
+Move power: N/A
+Accuracy: 30
+PP: 5
+Effects: A normal type 1HKO move.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Howl
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 40
+Effects: Boosts the attack of the user.
+Condition:  
+Condition_Chance: 
+Status: +1UATT
+Status_Chance: 100
+
+
+Hydro Cannon
+Move type: Water
+Move power: 150
+Accuracy: 90
+PP: 5
+Effects: User attacks first turn but must recharge after using.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Hydro Pump
+Move type: Water
+Move power: 120
+Accuracy: 80
+PP: 5
+Effects: N/A 
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Hyper Beam
+Move type: Normal
+Move power: 150
+Accuracy: 90
+PP: 5
+Effects: User must recharge for one turn after using.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Hyper Voice
+Move type: Normal
+Move power: 90
+Accuracy: 100
+PP: 10
+Effects: N/A 
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Hypnosis
+Move type: Psychic
+Move power: N/A
+Accuracy: 60
+PP: 20
+Effects: If it hits, the target is put to sleep.
+Condition:  SLEEP
+Condition_Chance: 100 
+Status: 
+Status_Chance:
+
+
+Ice Ball
+Move type: Ice
+Move power: 30
+Accuracy: 90
+PP: 20
+Effects: Attacks for five turns with increasing damage unless the user misses.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Ice Beam
+Move type: Ice
+Move power: 95
+Accuracy: 100
+PP: 10
+Effects: 10% chance to freeze target.
+Condition:  SLEEP
+Condition_Chance: 10 
+Status: 
+Status_Chance:
+
+
+Ice Punch
+Move type: Ice
+Move power: 75
+Accuracy: 100
+PP: 15
+Effects: 30% chance to freeze target.
+Condition:  FROZEN
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Icy Wind
+Move type: Ice
+Move power: 55
+Accuracy: 95
+PP: 15
+Effects: Lowers the target(s) speed.
+Condition:  
+Condition_Chance: 
+Status: -1ESPE
+Status_Chance: 100
+
+
+Imprison
+Move type: Psychic
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: Prevents target from using moves that that the user knows.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Ingrain
+Move type: Grass
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: User becomes unable to flee but regains HP each turn.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Iron Defense
+Move type: Steel
+Move power: N/A
+Accuracy: N/A
+PP: 15
+Effects: Sharply increaces the defence of the user.
+Condition:  
+Condition_Chance: 
+Status: +2UDEF
+Status_Chance: 100
+
+
+Iron Tail
+Move type: Steel
+Move power: 100
+Accuracy: 75
+PP: 15
+Effects: 30% chance to lower the targets defence.
+Condition:  
+Condition_Chance: 
+Status: -1EDEF
+Status_Chance: 30
+
+
+Karate Chop
+Move type: Fighting
+Move power: 50
+Accuracy: 100
+PP: 25
+Effects: High critical hit rate.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Kinesis
+Move type: Psychic
+Move power: N/A
+Accuracy: 80
+PP: 15
+Effects: If it hits, targets accuracy is lowered.
+Condition:  
+Condition_Chance: 
+Status: -1EACC
+Status_Chance: 100
+
+
+Knock Off
+Move type: Dark
+Move power: 20
+Accuracy: 100
+PP: 20
+Effects: Removes the targets item from it.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+
+Leaf Blade
+Move type: Grass
+Move power: 70
+Accuracy: 100
+PP: 15
+Effects: High critical hit rate.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Leech Life
+Move type: Bug
+Move power: 20
+Accuracy: 100
+PP: 15
+Effects: User absorbs half of the damage done to the foe.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Leech Seed
+Move type: Grass
+Move power: N/A
+Accuracy: 90
+PP: 10
+Effects: Seeds the target and leeches health for the user every turn.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Leer
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 30
+Effects: Lowers the targets defence
+Condition:  
+Condition_Chance: 
+Status: -1EDEF
+Status_Chance: 100
+
+
+Lick
+Move type: Ghost
+Move power: 20
+Accuracy: 100
+PP: 20
+Effects: 30% chance to paralyze target.
+Condition:  PARALYZED
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Light Screen
+Move type: Psychic
+Move power: N/A
+Accuracy: N/A
+PP: 30
+Effects: Reduces damage done by special type attacks to 50% while in effect.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Lock-On
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 5
+Effects: The taret is hit by the next move. Period.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Lovely Kiss
+Move type: Normal
+Move power: N/A
+Accuracy: 75
+PP: 10
+Effects: Causes the target to fall asleep.
+Condition:  SLEEP
+Condition_Chance: 100 
+Status: 
+Status_Chance:
+
+
+Low Kick
+Move type: Fighting
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: The more the pokemon weighs, the stronger the attack is.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Luster Purge
+Move type: Psychic
+Move power: 70
+Accuracy: 100
+PP: 5
+Effects: Lati@s/smergle only move. 50% chance to lower SP. defence.
+Condition:  
+Condition_Chance: 
+Status: -1ESPD
+Status_Chance: 50
+
+
+Mach Punch
+Move type: Fighting
+Move power: 40
+Accuracy: 100
+PP: 5
+Effects: User attacks first.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Magic Coat
+Move type: Psychic
+Move power: N/A
+Accuracy: N/A
+PP: 15
+Effects: Reflects Status Attacks.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Magical Leaf
+Move type: Grass
+Move power: 60
+Accuracy: N/A
+PP: 20
+Effects: Always hits 100% of the time.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Magnitude
+Move type: Ground
+Move power: N/A
+Accuracy: 100
+PP: 30
+Effects: The attack is stronger at higher magnitudes.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Mean Look
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 5
+Effects: Target is trapped and cannot switch out.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Meditate
+Move type: Psychic
+Move power: N/A
+Accuracy: N/A
+PP: 40
+Effects: Boosts the attack power of the user.
+Condition:  
+Condition_Chance: 
+Status: +1UATT
+Status_Chance: 100
+
+
+Mega Drain
+Move type: Grass
+Move power: 40
+Accuracy: 100
+PP: 10
+Effects: User absorbs half the damage inflicted on target.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Mega Kick
+Move type: Normal
+Move power: 120
+Accuracy: 75
+PP: 5
+Effects: N/A
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Mega Punch
+Move type: Normal
+Move power: 80
+Accuracy: 85
+PP: 20
+Effects: N/A
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Megahorn
+Move type: Bug
+Move power: 120
+Accuracy: 85
+PP: 10
+Effects: N/A
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Memento
+Move type: Dark
+Move power: N/A
+Accuracy: 100
+PP: 10
+Effects: Lowers the targets attack and special attack to rock bottom, but the user faints.
+Condition:  
+Condition_Chance: 
+Status: -6EATT|-6ESPA
+Status_Chance: 100
+
+
+Metal Claw
+Move type: Steel
+Move power: 50
+Accuracy: 95
+PP: 35
+Effects: 10% chance to raise the defence of the user.
+Condition:  
+Condition_Chance: 
+Status: +1UDEF
+Status_Chance: 10
+
+
+Metal Sound
+Move type: Steel
+Move power: N/A
+Accuracy: 85
+PP: 40
+Effects: Sharply lowers the Special Defence of the target.
+Condition:  
+Condition_Chance: 
+Status: -2ESPD
+Status_Chance: 100
+
+
+Meteor Mash
+Move type: Steel
+Move power: 100
+Accuracy: 85
+PP: 10
+Effects: 10% chance of rising the attack of the user.
+Condition:  
+Condition_Chance: 
+Status: +1UATT
+Status_Chance: 10
+
+
+Metronome
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: A random move is selected for use, other than Counter, Covet, Destiny Bond, Detect, Endure, Focus Punch, Follow Me, Helping Hand, Metronome, Mimic, Mirror Coat, Protect, Sketch, Sleep Talk, Snatch, Struggle, Thief, or Trick.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance: 
+
+
+Mimic
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 10
+Effects: User temporarily learns one of the targets moves.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Mind Reader
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 5
+Effects: The users next move hits, period.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Minimize
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: Increases the users evasiveness.
+Condition:  
+Condition_Chance: 
+Status: +1UEVA
+Status_Chance: 100
+
+
+Mirror Coat
+Move type: Psychic
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Counters special moves returning 200% of damage.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Mirror Move
+Move type: Flying
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: User copies the targets move.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Mist
+Move type: Ice
+Move power: N/A
+Accuracy: N/A
+PP: 30
+Effects: Users team becomes immune to status afflictions for 5 turns.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Mist Ball
+Move type: Psychic
+Move power: 70
+Accuracy: 100
+PP: 5
+Effects: 50% chance to lower targets Special Defence.
+Condition:  
+Condition_Chance: 
+Status: -1ESPD
+Status_Chance: 50
+
+
+Moonlight
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 5
+Effects: Restores the users health based on the weather.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Morning Sun
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 5
+Effects: Restores the users health based on the weather.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Mud Shot
+Move type: Ground
+Move power: 55
+Accuracy: 95
+PP: 15
+Effects: Lowers the targets speed.
+Condition:  
+Condition_Chance: 
+Status: -1ESPE
+Status_Chance: 100
+
+
+Mud Sport
+Move type: Ground
+Move power: N/A
+Accuracy: N/A
+PP: 15
+Effects: Reduces the power of electric moves by 50%
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Muddy Water
+Move type: Water
+Move power: 95
+Accuracy: 85
+PP: 10
+Effects: 30% chance to lower the accuracy of target(s)
+Condition:  
+Condition_Chance: 
+Status: -1EACC
+Status_Chance: 30
+
+
+Mud-Slap
+Move type: Ground
+Move power: 20
+Accuracy: 100
+PP: 10
+Effects: Lowers the accuracy of the target.
+Condition:  
+Condition_Chance: 
+Status: -1EACC
+Status_Chance: 100
+
+
+Nature Power
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: Changes moves depending on location.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Needle Arm
+Move type: Grass
+Move power: 60
+Accuracy: 100
+PP: 15
+Effects: 30% chance to make target flinch.
+Condition: FLINCH
+Condition_Chance: 30 
+Status: 
+Status_Chance:
+
+
+Nightmare
+Move type: Ghost
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: Causes the target to lose 1/4 of its maximum HP, rounded down, at the end of each turn as long as it is asleep. This move does not affect the target unless it is asleep. The effect ends when the target wakes up, even if it falls asleep again in the same turn.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Night Shade
+Move type: Ghost
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: Causes the same amount of damage as the users level.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Odor Sleuth
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 40
+Effects: Resets the users accuracy and prevents accuracy loss.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Outrage
+Move type: Dragon
+Move power: 90
+Accuracy: 100
+PP: 15
+Effects: User rampages for 2 or 3 turns but is confused afterwards.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Overheat
+Move type: Fire
+Move power: 140
+Accuracy: 90
+PP: 5
+Effects: Sharply lowers the users special attack.
+Condition:  
+Condition_Chance: 
+Status: -2USPA
+Status_Chance: 100
+
+
+Peck
+Move type: Flying
+Move power: 35
+Accuracy: 100
+PP: 35
+Effects: N/A
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Perish Song
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 5
+Effects: Causes all pokemon on the battlefield to faint in three turns.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Petal Dance
+Move type: Grass
+Move power: 70
+Accuracy: 100
+PP: 20
+Effects: User attacks for 2 or 3 turns but is confused aftarwards.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Pin Missle
+Move type: Bug
+Move power: 14
+Accuracy: 85
+PP: 20
+Effects: Attacks 2 to 5 times.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Poison Fang
+Move type: Poison
+Move power: 50
+Accuracy: 100
+PP: 15
+Effects: 30% chance to badly poison target.
+Condition: POISON
+Condition_Chance: 30 
+Status: 
+Status_Chance:
+
+
+Poison Gas
+Move type: Poison
+Move power: N/A
+Accuracy: 55
+PP: 40
+Effects: If it hits, target becomes poisoned.
+Condition: POISON
+Condition_Chance: 100 
+Status: 
+Status_Chance:
+
+
+Poison Sting
+Move type: Poison
+Move power: 15
+Accuracy: 100
+PP: 35
+Effects: 30% chance to poison target.
+Condition:  POISON
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Poison Tail
+Move type: Poison
+Move power: 50
+Accuracy: 100
+PP: 25
+Effects: 10% chance to poison the target. High critical hit rate.
+Condition:  POISON
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Poisonpowder
+Move type: Poison
+Move power: N/A
+Accuracy: 75
+PP: 35
+Effects: If it hits, the target is poisoned.
+Condition:  POISON
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Pound
+Move type: Normal
+Move power: 40
+Accuracy: 100
+PP: 35
+Effects: N/A 
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Powder Snow
+Move type: Ice
+Move power: 40
+Accuracy: 100
+PP: 25
+Effects: 10% chance to lower targets speed.
+Condition:  
+Condition_Chance: 
+Status: -1ESPE
+Status_Chance: 10
+
+
+Protect
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: Neggates all attacks on user when used. Successive uses degrade
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+accuracy.
+
+Psybeam
+Move type: Psychic
+Move power: 65
+Accuracy: 100
+PP: 20
+Effects: 10% chance to confuse target.
+Condition: CONFUSION
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Psych Up
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: When target uses a stat boosting move, users stat is also boosted.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Psychic
+Move type: Psychic
+Move power: 90
+Accuracy: 100
+PP: 10
+Effects: 10% chance to lower targets Special Defence.
+Condition:  
+Condition_Chance: 
+Status: -1ESPD
+Status_Chance: 10
+
+
+Psywave
+Move type: Psychic
+Move power: N/A
+Accuracy: 80
+PP: 15
+Effects: It deals anywhere between 1 damage and 1.5x the users level.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Pursuit
+Move type: Dark
+Move power: 40
+Accuracy: 100
+PP: 20
+Effects: Does massive damage if target attempts to switch out.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Quick Attack
+Move type: Normal
+Move power: 40
+Accuracy: 100
+PP: 30
+Effects: User attacks first.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Rage
+Move type: Normal
+Move power: 20
+Accuracy: 100
+PP: 20
+Effects: Each time the user is hit while using this move, the users attack builds.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Rain Dance
+Move type: Water
+Move power: N/A
+Accuracy: N/A
+PP: 5
+Effects: Causes it to rain adding 50% to water type moves and taking 50% from fire type moves.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Rapid Spin
+Move type: Normal
+Move power: 20
+Accuracy: 100
+PP: 40
+Effects: Frees user from Fire spin, Whirlpool, Wrap, and other similar moves. Blows away spikes, leech seeds, etc.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Razor Leaf
+Move type: Grass
+Move power: 55
+Accuracy: 95
+PP: 25
+Effects: High critical hit rate.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Razor Wind
+Move type: Normal
+Move power: 80
+Accuracy: 100
+PP: 10
+Effects: High critical hit rate but must first be charged.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Recover
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: User recovers 50% HP.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Recycle
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: Allows user to re-use a held item.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Reflect
+Move type: Psychic
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: Reduces damage of normal attacks by 50%
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Refresh
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: Cures the user of burn, poison, or paralysis.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Rest
+Move type: Psychic
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: Heals all HP and status condition, but user falls asleep.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Return
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: The higher the pokemons happiness, the stronger the move.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Revenge
+Move type: Fighting
+Move power: 60
+Accuracy: 100
+PP: 10
+Effects: 100% stronger if user takes damage.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Reversal
+Move type: Fighting
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: The lower the users HP, the more powerful teh move is.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Roar
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Causes the trainer to switch pokemon.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Rock Blast
+Move type: Rock
+Move power: 25
+Accuracy: 80
+PP: 10
+Effects: Attacks 2 to 5 times.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Rock Slide
+Move type: Rock
+Move power: 75
+Accuracy: 90
+PP: 10
+Effects: 30% chance to make target flinch.
+Condition:  FLINCH
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Rock Smash
+Move type: Fighting
+Move power: 20
+Accuracy: 100
+PP: 15
+Effects: 30% chance to lower targets defense.
+Condition:  
+Condition_Chance: 
+Status: -1EDEF
+Status_Chance: 30
+
+
+Rock Throw
+Move type: Rock
+Move power: 50
+Accuracy: 90
+PP: 15
+Effects: N/A 
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Rock Tomb
+Move type: Rock
+Move power: 50
+Accuracy: 80
+PP: 10
+Effects: 100% chance to lower the targets speed.
+Condition:  
+Condition_Chance: 
+Status: -1ESPE
+Status_Chance: 100
+
+
+Rollout
+Move type: Rock
+Move power: 30
+Accuracy: 90
+PP: 20
+Effects: User attacks for 5 turns with rising intensity.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Safeguard
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 25
+Effects: Users party is protected from all status abnormalities.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Sand Tomb
+Move type: Ground
+Move power: 15
+Accuracy: 70
+PP: 15
+Effects: Target is trapped and attacked for two to six turns.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Sand-Attack
+Move type: Ground
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: Lowers the accuracy of the target.
+Condition:  
+Condition_Chance: 
+Status: -1EACC
+Status_Chance: 100
+
+
+Sandstorm
+Move type: Rock
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: Creates a violent sandstorm that does 1/16th of max health damage every turn to all non Rock, steel, or ground pokemon.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Scary Face
+Move type: Normal
+Move power: N/A
+Accuracy: 90
+PP: 10
+Effects: If it hits, the targets speed is shaply lowered.
+Condition:  
+Condition_Chance: 
+Status: -2ESPE
+Status_Chance: 100
+
+
+Scratch
+Move type: Normal
+Move power: 40
+Accuracy: 100
+PP: 35
+Effects: N/A
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Screech
+Move type: Normal
+Move power: N/A
+Accuracy: 85
+PP: 40
+Effects: If it hits, the targets Defense is sharply lowered.
+Condition:  
+Condition_Chance: 
+Status: -2ESPE
+Status_Chance: 100
+
+
+Secret Power
+Move type: Normal
+Move power: 70
+Accuracy: 100
+PP: 20
+Effects: Has 30% chance to cause a status effect on the target.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Seismic Toss
+Move type: Fighting
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Does damage points to target based on users level.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Self Destruct
+Move type: Normal
+Move power: 200
+Accuracy: 100
+PP: 5
+Effects: Use faints when this move is used.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Shadow Ball
+Move type: Ghost
+Move power: 80
+Accuracy: 100
+PP: 15
+Effects: 10% chance to lower targets special defence.
+Condition:  
+Condition_Chance: 
+Status: -1ESPD
+Status_Chance: 10
+
+
+Shadow Punch
+Move type: Ghost
+Move power: 60
+Accuracy: N/A
+PP: 20
+Effects: Always hits target.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Sheer Cold
+Move type: Ice
+Move power: N/A
+Accuracy: 30
+PP: 5
+Effects: An ice type one hit KO move.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Shock Wave
+Move type: Electric
+Move power: 60
+Accuracy: N/A
+PP: 20
+Effects: Always hits target.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Signal Beam
+Move type: Bug
+Move power: 75
+Accuracy: 100
+PP: 15
+Effects: 10% chance to confuse target.
+Condition: CONFUSION 
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Silver Wind
+Move type: Bug
+Move power: 60
+Accuracy: 100
+PP: 5
+Effects: 10% chance to raise users attack, defence, special attack, special defense, and speed.
+Condition:  
+Condition_Chance: 
+Status: +1UATT|+1UDEF|+1USPA|+1USPD|+1USPE
+Status_Chance: 10
+
+
+Sing
+Move type: Normal
+Move power: N/A
+Accuracy: 55
+PP: 15
+Effects: If it hits the target is afflicted with sleep.
+Condition:  SLEEP
+Condition_Chance: 100 
+Status: 
+Status_Chance:
+
+
+Skill Swap
+Move type: Psychic
+Move power: N/A
+Accuracy: 100
+PP: 10
+Effects: User trades special ability with target.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Skull Bash
+Move type: Normal
+Move power: 100
+Accuracy: 100
+PP: 15
+Effects: User withdraws into shell and raises defence. On the next turn the user attacks.
+Condition:  
+Condition_Chance: 
+Status: +1UDEF
+Status_Chance: 100
+
+
+Sky Attack
+Move type: Flying
+Move power: 140
+Accuracy: 90
+PP: 5
+Effects: Glows on the first turn and then attacks on the second.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Sky Uppercut
+Move type: Fighting
+Move power: 85
+Accuracy: 90
+PP: 15
+Effects: Hits pokemon using fly.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Slack Off
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 10
+Effects: Heals 50% of the users HP.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Slam
+Move type: Normal
+Move power: 80
+Accuracy: 75
+PP: 20
+Effects: N/A
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Slash
+Move type: Normal
+Move power: 70
+Accuracy: 100
+PP: 20
+Effects: High critical hit rate.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Sleep Powder
+Move type: Grass
+Move power: N/A
+Accuracy: 75
+PP: 15
+Effects: If it hits, the target is afflicted with sleep.
+Condition: SLEEP
+Condition_Chance: 100 
+Status: 
+Status_Chance:
+
+
+Sleep Talk
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: The user attacks randomly while asleep.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Sludge
+Move type: Poison
+Move power: 65
+Accuracy: 100
+PP: 20
+Effects: 30% chance to poison target.
+Condition: POISON
+Condition_Chance: 30 
+Status: 
+Status_Chance:
+
+
+Sludge Bomb
+Move type: Poison
+Move power: 90
+Accuracy: 100
+PP: 10
+Effects: 10% chance to poison target.
+Condition: POISON
+Condition_Chance: 10 
+Status: 
+Status_Chance:
+
+
+Smellingsalt
+Move type: Normal
+Move power: 60
+Accuracy: 100
+PP: 10
+Effects: Inflicts 200% damage if target is paralyzed, but cures paralasis.
+Condition:  
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Smog
+Move type: Poison
+Move power: 20
+Accuracy: 70
+PP: 20
+Effects: 30% chance to poison target.
+Condition: POISON
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Smokescreen
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Lowers the targets accuracy.
+Condition: 
+Condition_Chance:
+Status: -1EACC
+Status_Chance: 100
+
+ 
+
+Snatch
+Move type: Dark
+Move power: N/A
+Accuracy: 100
+PP: 10
+Effects: If the foe uses a move that has a positive effect, that effect is stolen by the user.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Snore
+Move type: Normal
+Move power: 40
+Accuracy: 100
+PP: 15
+Effects: Allows the user to attack while asleep.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Solarbeam
+Move type: Grass
+Move power: 120
+Accuracy: 100
+PP: 10
+Effects: Charges up with sunlight and attacks with a powerful beam. No charge is needed when Sunny Day is in effect. Take two turns to charge it rain dance is in effect.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Sonicboom
+Move type: Normal
+Move power: N/A
+Accuracy: 90
+PP: 20
+Effects: Does 20 damage.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Spark
+Move type: Electric
+Move power: 65
+Accuracy: 100
+PP: 20
+Effects: 30% chance to paralyse target.
+Condition: PARALYZED
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Spike Cannon
+Move type: Normal
+Move power: 20
+Accuracy: 100
+PP: 15
+Effects: Attacks 2 - 5 times.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Spikes
+Move type: Ground
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: Lays spikes on the battlefield that damage pokemon that are switched in.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Spit Up
+Move type: Normal
+Move power: 100
+Accuracy: 100
+PP: 10
+Effects: The more the user stockpiles, the more powerful it is.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Spite
+Move type: Ghost
+Move power: N/A
+Accuracy: 100
+PP: 10
+Effects: Lowers the PP of the last move the target used.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Splash
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 40
+Effects: Does nothing whatsoever. The move is useless.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Spore
+Move type: Grass
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: Causes the target to fall asleep.
+Condition: SLEEP
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Steel Wing
+Move type: Steel
+Move power: 70
+Accuracy: 90
+PP: 25
+Effects: May raise the defense of the user.
+Condition: 
+Condition_Chance:
+Status: +1UDEF
+Status_Chance: 10
+
+
+Stockpile
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: Use consecutive times to power up "swallow"
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Stomp
+Move type: Normal
+Move power: 65
+Accuracy: 100
+PP: 20
+Effects: 30% chance to make the target flinch.
+Condition: FLINCH
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Strength
+Move type: Normal
+Move power: 80
+Accuracy: 100
+PP: 15
+Effects: Moves boulders on the field.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+String Shot
+Move type: Bug
+Move power: N/A
+Accuracy: 95
+PP: 40
+Effects: If it hits, the targets speed is lowered.
+Condition: 
+Condition_Chance:
+Status: -1ESPE
+Status_Chance: 100
+
+
+Struggle
+Move type: ???
+Move power: 50
+Accuracy: 100
+PP: Infinite
+Effects: Pokemon automatically use this move when out of PP for all moves. User takes recoil damage.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Stun Spore
+Move type: Grass
+Move power: N/A
+Accuracy: 75
+PP: 30
+Effects: If it hits, the target is paralyzed.
+Condition: PARALYZED
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Submission
+Move type: Fighting
+Move power: 80
+Accuracy: 80
+PP: 25
+Effects: User takes recoil damage.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Substitute
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: USer loses 25% HP and creates a substitue to take damage.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Sunny Day
+Move type: Fire
+Move power: N/A
+Accuracy: N/A
+PP: 5
+Effects: Makes the sun shine brightly adding 50% power to fire moves and taking 50% power from water moves.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Superpower
+Move type: Fighting
+Move power: 120
+Accuracy: 100
+PP: 5
+Effects: Users defense and attack are lowered.
+Condition: 
+Condition_Chance:
+Status:  -1UATT|-1UDEF
+Status_Chance: 100
+
+
+Supersonic
+Move type: Normal
+Move power: N/A
+Accuracy: 55
+PP: 20
+Effects: If it hits, the target is confused.
+Condition: CONFUSION
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Surf
+Move type: Water
+Move power: 95
+Accuracy: 100
+PP: 15
+Effects: N/A 
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Swagger
+Move type: Normal
+Move power: N/A
+Accuracy: 90
+PP: 15
+Effects: Sharply boosts the attack of the target, but causes confusion.
+Condition: 
+Condition_Chance:
+Status: +2UATT
+Status_Chance: 100
+
+
+Swallow
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: Use stockpile to boost the healing power of this move.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Sweet Kiss
+Move type: Normal
+Move power: N/A
+Accuracy: 75
+PP: 10
+Effects: If it hits, the target is confused.
+Condition: CONFUSION
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Sweet Scent
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Lowers the evasion of the target.
+Condition: 
+Condition_Chance:
+Status: -1EEVA
+Status_Chance: 100
+
+
+Swift
+Move type: Normal
+Move power: 60
+Accuracy: N/A
+PP: 20
+Effects: The move will connect. Period.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Swords Dance
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 30
+Effects: Sharply boosts the attack of the user.
+Condition: 
+Condition_Chance:
+Status: +2UATT
+Status_Chance: 100
+
+
+Synthesis
+Move type: Grass
+Move power: N/A
+Accuracy: N/A
+PP: 5
+Effects: The user restores HP depending on the weather.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Tackle
+Move type: Normal
+Move power: 35
+Accuracy: 95
+PP: 35
+Effects:  N/A 
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Tail Glow
+Move type: Bug
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: Sharply boosts the special attack of the user.
+Condition: 
+Condition_Chance:
+Status: +3USPA
+Status_Chance: 100
+
+
+Tail Whip
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 30
+Effects: Lowers the targets defense.
+Condition: 
+Condition_Chance:
+Status: -1EDEF
+Status_Chance: 100
+
+
+Take Down
+Move type: Normal
+Move power: 90
+Accuracy: 85
+PP: 20
+Effects: User takes recoil damage.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Taunt
+Move type: Dark
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Target must use an attack move forthe next 2 turns or the move will fail.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Teeter Dance
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Confuses all pokemon on the field but the user.
+Condition: CONFUSION 
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Teleport
+Move type: Psychic
+Move power: N/A
+Accuracy: N/A
+PP: 20
+Effects: Teleports out of battle and to the last pokemon station in GBA games. No use in Colosseum.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Thief
+Move type: Dark
+Move power: 40
+Accuracy: 100
+PP: 10
+Effects: User might steal the targets held item
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Thrash
+Move type: Normal
+Move power: 90
+Accuracy: 100
+PP: 20
+Effects: User attacks for 2 or 3 turns but then becomes confused.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Thunder
+Move type: Electric
+Move power: 120
+Accuracy: 70
+PP: 10
+Effects: 30% chance to paralyze target. Move has 100% accuracy when rain sance is in effect. Move has 40% accuracy when sunny day is in effect. Move does double damage to pokemon using fly.
+Condition: PARALYZED
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Thunder Wave
+Move type: Electric
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: The target is paralyzed.
+Condition: PARALYZED
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Thunderbolt
+Move type: Electric
+Move power: 95
+Accuracy: 100
+PP: 15
+Effects: 10% chance to paralyze the target.
+Condition: PARALYZED
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Thunderpunch
+Move type: Electric
+Move power: 75
+Accuracy: 100
+PP: 15
+Effects: 30% chance to paralyze the target.
+Condition: PARALYZED
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Thundershock
+Move type: Electric
+Move power: 40
+Accuracy: 100
+PP: 30
+Effects: 10% chance to paralyze the target.
+Condition: PARALYZED
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+
+Tickle
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Lowers the defense and attack of the target.
+Condition: 
+Condition_Chance:
+Status: -1EATT|-1EDEF
+Status_Chance: 100
+
+
+Torment
+Move type: Dark
+Move power: N/A
+Accuracy: 100
+PP: 15
+Effects: Target can no longer use any move consecutively.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Toxic
+Move type: Poison
+Move power: N/A
+Accuracy: 85
+PP: 10
+Effects: Badly poisons the foe.
+Condition: POISON
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Transform
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: The user transforms into the target. The target's current stats, stat stages, types, moves, Ability, weight, IVs, species, and sprite are copied. The user's level and HP remain the same and each copied move receives only 5 PP. This move fails if the target has transformed.
+Condition: 
+Condition_Chance: 
+Status: 
+Status_Chance:
+
+
+Tri-Attack
+Move type: Normal
+Move power: 80
+Accuracy: 100
+PP: 10
+Effects: 10% chance to paralyze the target. 10% chance to freeze the target. 10% chance to burn the target.
+Condition: PARALYZED|FROZEN|BURNED
+Condition_Chance: 10
+Status: 
+Status_Chance:
+
+Trick
+Move type: Psychic
+Move power: N/A
+Accuracy: 100
+PP: 10
+Effects: User switches held items with target.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Triple Kick
+Move type: Fighting
+Move power: 10
+Accuracy: 90
+PP: 10
+Effects: Kicks the target three times, each strike doing more damage that the one before.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Twister
+Move type: Dragon
+Move power: 40
+Accuracy: 100
+PP: 20
+Effects: Double damage against flying foes. 30% chance to make target flinch.
+Condition: FLINCH
+Condition_Chance: 30
+Status: 
+Status_Chance:
+
+
+Uproar
+Move type: Normal
+Move power: 50
+Accuracy: 100
+PP: 10
+Effects: Attacks for 2 to 5 consecutive turns while preventing sleep.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Vice Grip
+Move type: Normal
+Move power: 55
+Accuracy: 100
+PP: 30
+Effects: N/A
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Vine Whip
+Move type: Grass
+Move power: 35
+Accuracy: 100
+PP: 10
+Effects: N/A
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Vital Throw
+Move type: Fighting
+Move power: 70
+Accuracy: 100
+PP: 10
+Effects: Attacks last but the move will hit without fail.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Volt Tackle
+Move type: Electric
+Move power: 120
+Accuracy: 100
+PP: 15
+Effects: If the target lost HP, the user takes recoil damage equal to 1/3 the HP lost by the target, rounded down, but not less than 1 HP.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Water Gun
+Move type: Water
+Move power: 40
+Accuracy: 100
+PP: 25
+Effects: N/A
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Water Pulse
+Move type: Water
+Move power: 60
+Accuracy: 100
+PP: 20
+Effects: 20% chance to confuse the target.
+Condition: CONFUSION
+Condition_Chance: 20
+Status: 
+Status_Chance:
+
+
+Water Sport
+Move type: Water
+Move power: N/A
+Accuracy: N/A
+PP: 15
+Effects: Reduces the power of fire moves by 50%
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Water Spout
+Move type: Water
+Move power: 150
+Accuracy: 100
+PP: 5
+Effects: The higher the users HP, the more powerful the move.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Waterfall
+Move type: Water
+Move power: 80
+Accuracy: 100
+PP: 15
+Effects: N/A 
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Weather Ball
+Move type: Normal
+Move power: 50
+Accuracy: 100
+PP: 10
+Effects: This moves power is doubled when a weather effect is in play and becomes the type of the weather effect.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Whirlpool
+Move type: Water
+Move power: 15
+Accuracy: 70
+PP: 15
+Effects: Does damage for 2 to 5 turns preventing the targets escape.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Whirlwind
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 20
+Effects: Forces foe to switch pokemon.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Will-O-Wisp
+Move type: Fire
+Move power: N/A
+Accuracy: 75
+PP: 15
+Effects: If it hits, the target is burned.
+Condition: BURNED
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Wing Attack
+Move type: Flying
+Move power: 60
+Accuracy: 100
+PP: 35
+Effects: N/A
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Wish
+Move type: Normal
+Move power: N/A
+Accuracy: N/A
+PP: 10
+Effects: The pokemon in play at the end of the next turn will revive 50% HP.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Wrap
+Move type: Normal
+Move power: 15
+Accuracy: 85
+PP: 20
+Effects: Does continual damage for 2 to 5 turns preventing the targets escape.
+Condition: 
+Condition_Chance:
+Status: 
+Status_Chance:
+
+
+Yawn
+Move type: Normal
+Move power: N/A
+Accuracy: 100
+PP: 10
+Effects: At the end of the next turn the target will fall asleep.
+Condition: SLEEP
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+Zap Cannon
+Move type: Electric
+Move power: 100
+Accuracy: 50
+PP: 5
+Effects: If it hits the target will take damage and become paralyzed.
+Condition: PARALYZED
+Condition_Chance: 100
+Status: 
+Status_Chance:
+
+
+-
+Move type: N/A
+Move power: N/A
+Accuracy: N/A
+PP: N/A
+Effects: No Move in this slot. 
+Condition: 
+Condition_Chance: 
+Status: 
+Status_Chance:
